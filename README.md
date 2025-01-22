@@ -24,7 +24,6 @@ This project is a simulation of NASA's Mars Rovers navigating a rectangular plat
    ```bash
    pip install -r requirements.txt
 
-
 ------------------------------------------------------------
 
 # Running the Application
@@ -51,18 +50,6 @@ This project is a simulation of NASA's Mars Rovers navigating a rectangular plat
    Final positions:
    1 3 N
    5 1 E
-
-## Project Structure
-   ```bash
-   mars-rover/
-   |-- src/
-   |   |-- main.py        # Entry point for the application
-   |   |-- rover.py       # Rover class and logic
-   |   |-- plateau.py     # Plateau class and logic
-   |-- tests/
-   |   |-- test_rover.py  # Unit tests for rover
-   |   |-- test_plateau.py # Unit tests for plateau
-   |-- README.md          # Documentation
 
 
 
