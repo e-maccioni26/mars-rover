@@ -1,3 +1,5 @@
+### Name : Maccioni Elone, Groupe 02 Master Dev Full Stack.
+
 # Mars Rover Simulation
 
 This project is a simulation of NASA's Mars Rovers navigating a rectangular plateau. Each rover follows a set of instructions to explore the terrain, and the final positions and orientations of the rovers are displayed.
