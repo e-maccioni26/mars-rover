@@ -14,7 +14,7 @@ This project is a simulation of NASA's Mars Rovers navigating a rectangular plat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mars-rover.git
+   git clone https://github.com/e-maccioni26/mars-rover.git
 
 2. Navigate to the project directory:
    ```bash
