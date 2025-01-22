@@ -57,6 +57,6 @@ This project is a simulation of NASA's Mars Rovers navigating a rectangular plat
 
 ## Example Output
    ```bash
-   Final positions:
-   1 3 N
-   5 1 E
+   🌟 Résultat final :
+   Rover 1 : 1 3 N
+   Rover 2 : 5 1 E
