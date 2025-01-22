@@ -50,13 +50,3 @@ This project is a simulation of NASA's Mars Rovers navigating a rectangular plat
    Final positions:
    1 3 N
    5 1 E
-
-
-
-
-
-
-
-
-
-
