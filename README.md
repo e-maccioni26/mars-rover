@@ -24,7 +24,7 @@ This project is a simulation of NASA's Mars Rovers navigating a rectangular plat
 
 3. Install any dependencies (if required):
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
 
 ------------------------------------------------------------
 
