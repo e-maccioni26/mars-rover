@@ -40,12 +40,20 @@ This project is a simulation of NASA's Mars Rovers navigating a rectangular plat
 
 3. Follow the prompts (Example Input 👇🏼)
    ```bash
-   Enter plateau size (e.g., 5 5): 5 5
-   Enter rover position (e.g., 1 2 N) or 'stop': 1 2 N
-   Enter instructions (e.g., LMLMLMLMM): LMLMLMLMM
-   Enter rover position (e.g., 1 2 N) or 'stop': 3 3 E
-   Enter instructions (e.g., LMLMLMLMM): MMRMMRMRRM
-   Enter rover position (e.g., 1 2 N) or 'stop': stop
+   👉 Entrez la taille du plateau (ex : 5 5) : 5 5
+  ✅ Plateau de taille 5x5 créé avec succès.
+
+  📍 Position initiale du Rover 1 (ex : 1 2 N) : 1 2 N
+  📜 Instructions pour le Rover 1 (ex : LMLMLMLMM) : LMLMLMLMM
+  ✅ Rover 1 déplacé avec succès à la position : 1 3 N
+
+  📍 Position initiale du Rover 2 (ex : 3 3 E) : 3 3 E
+  📜 Instructions pour le Rover 2 (ex : MMRMMRMRRM) : MMRMMRMRRM
+  ✅ Rover 2 déplacé avec succès à la position : 5 1 E
+
+  📍 Entrez la position initiale du rover 3 (ou 'stop' pour terminer) : stop
+
+  etc ...
 
 ## Example Output
    ```bash
